@@ -110,10 +110,10 @@ button.ON3 {
     height: 40%;
     border-radius: 10px;
     border: none;
-    background-color: aliceblue;
+    background-color: blue;
     position: absolute;
     left: 35%;
-    top: 30px;
+    top: 30%;
     font-size: 1em;
 }
 
@@ -122,10 +122,10 @@ button.OFF3 {
     height: 40%;
     border-radius: 10px;
     border: none;
-    background-color: aliceblue;
+    background-color: blue;
     position: absolute;
     left: 60%;
-    top: 30px;
+    top: 30%;
     font-size: 1em;
 }
 
@@ -150,8 +150,9 @@ button.OFF3 {
     border-radius: 15px;
     background-color: lightgreen;
     position: absolute;
-    left: 7.5%;
-    top: 15%;
+    left: 50%;
+    top: 25%;
+    transform: translate(-50%, -50%);
 }
 
 button.modal {
